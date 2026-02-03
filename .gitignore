@@ -1,0 +1,13 @@
+# macOS junk
+.DS_Store
+
+# Debug / scratch
+_debug/
+
+# Excel temp files
+~$*.xlsx
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
